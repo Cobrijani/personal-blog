@@ -1,11 +1,11 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://blog.stefanbratic.com/',
   title: 'Blog by Stefan Bratic',
   subtitle: 'Restart before you try to solve',
-  copyright: '© Stefan Bratic All rights reserved.',
-  disqusShortname: '',
+  copyright: 'Stefan Bratic ©  All rights reserved.',
+  disqusShortname: 'https-blog-stefanbratic-com',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
   menu: [
